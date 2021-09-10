@@ -1,0 +1,3 @@
+from Assignment_1.Env.random_walk import RandomWalk
+from Assignment_1.Env.ten_armed_gaussian_bandit import ten_armed_gaussian_bandit
+from Assignment_1.Env.two_armed_bernoulli_bandit import two_armed_bernoulli_bandit
